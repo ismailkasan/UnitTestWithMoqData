@@ -1,0 +1,7 @@
+C:\Users\impar\source\research\UnitTestWithMoq\UnitTestWithMoq\bin\Debug\UnitTestWithMoq.exe.config
+C:\Users\impar\source\research\UnitTestWithMoq\UnitTestWithMoq\bin\Debug\UnitTestWithMoq.exe
+C:\Users\impar\source\research\UnitTestWithMoq\UnitTestWithMoq\bin\Debug\UnitTestWithMoq.pdb
+C:\Users\impar\source\research\UnitTestWithMoq\UnitTestWithMoq\obj\Debug\UnitTestWithMoq.csprojAssemblyReference.cache
+C:\Users\impar\source\research\UnitTestWithMoq\UnitTestWithMoq\obj\Debug\UnitTestWithMoq.csproj.CoreCompileInputs.cache
+C:\Users\impar\source\research\UnitTestWithMoq\UnitTestWithMoq\obj\Debug\UnitTestWithMoq.exe
+C:\Users\impar\source\research\UnitTestWithMoq\UnitTestWithMoq\obj\Debug\UnitTestWithMoq.pdb
