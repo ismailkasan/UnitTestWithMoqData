@@ -23,3 +23,28 @@ C:\Users\impar\source\research\UnitTestWithMoq\UserRepositoryTest\obj\Debug\User
 C:\Users\impar\source\research\UnitTestWithMoq\UserRepositoryTest\obj\Debug\UserRepositoryTest.csproj.CopyComplete
 C:\Users\impar\source\research\UnitTestWithMoq\UserRepositoryTest\obj\Debug\UserRepositoryTest.dll
 C:\Users\impar\source\research\UnitTestWithMoq\UserRepositoryTest\obj\Debug\UserRepositoryTest.pdb
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\UserRepositoryTest.dll
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\UserRepositoryTest.pdb
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\Castle.Core.dll
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\Moq.dll
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\UnitTestWithMoq.exe
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\UnitTestWithMoq.pdb
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\UnitTestWithMoq.exe.config
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\Castle.Core.xml
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\Moq.xml
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\obj\Debug\UserRepositoryTest.csproj.AssemblyReference.cache
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\obj\Debug\UserRepositoryTest.csproj.CoreCompileInputs.cache
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\obj\Debug\UserRepositoryTest.csproj.CopyComplete
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\obj\Debug\UserRepositoryTest.dll
+C:\ismail kasan\ismail kaşan\Demolar\UnitTestWithMoqData\UserRepositoryTest\obj\Debug\UserRepositoryTest.pdb
